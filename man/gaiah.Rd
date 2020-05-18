@@ -3,7 +3,6 @@
 \docType{package}
 \name{gaiah}
 \alias{gaiah}
-\alias{gaiah-package}
 \title{gaiah: Genetic and Isotopic Assignment Accounting for Habitat Suitability}
 \description{
 Tools for using genetic markers, stable isotope data, and habitat
@@ -20,4 +19,3 @@ the gaiah package.
 Finally, note that the development version of gaiah is available at
 \url{https://github.com/eriqande/gaiah}.
 }
-

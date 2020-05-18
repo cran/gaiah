@@ -33,4 +33,3 @@ x <- extract_isopredictions(isoscape = isomap_job54152_prediction,
                        pred = "predkrig",
                        sd = "stdkrig")
 }
-

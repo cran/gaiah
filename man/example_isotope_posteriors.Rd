@@ -4,7 +4,9 @@
 \name{example_isotope_posteriors}
 \alias{example_isotope_posteriors}
 \title{Output of \code{\link{isotope_posterior_probs}} for two migrant birds.}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 Ruegg et al 2014
 }
@@ -17,4 +19,3 @@ just store it as a data object to use in examples.  See the example in
 \code{\link{isotope_posterior_probs}} to see what this is.
 }
 \keyword{datasets}
-

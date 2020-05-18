@@ -4,12 +4,14 @@
 \name{migrant_wiwa_isotopes}
 \alias{migrant_wiwa_isotopes}
 \title{Isotope values and meta data for 688 migrating Wilson's Warblers}
-\format{A tibble with 688 rows and 14 variables. The relevant variables for
+\format{
+A tibble with 688 rows and 14 variables. The relevant variables for
 analyses here are:
 \describe{
   \item{ID}{unique identifier for each bird}
   \item{Isotope.Value}{hydrogen isotope ratios measured in the bird's feather}
-}}
+}
+}
 \source{
 Kristina Paxton
 }
@@ -22,4 +24,3 @@ columns of data for birds sampled during migration from Arizona.  604 of the ind
 in this data set also have values in \code{\link{migrant_wiwa_genetic_posteriors}}.
 }
 \keyword{datasets}
-

@@ -23,4 +23,3 @@ Just simple conversion, but nice to have this in a brief function
 isorast <- isomap2raster(isomap_job54152_prediction, "predreg")
 isorast
 }
-
